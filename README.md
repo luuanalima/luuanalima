@@ -4,6 +4,10 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=1000&color=E89AAE&center=true&vCenter=true&width=700&height=50&lines=Estudante+de+Desenvolvimento+de+Sistemas;Programação;Desenvolvimento+Web;Banco+de+Dados;Sempre+aprendendo+algo+novo" alt="Estudante de Desenvolvimento de Sistemas"/>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F3C6D2&height=2&section=header&width=700"/>
 
 </div>
