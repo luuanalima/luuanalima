@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E0,50:F3C6D2,100:FFB6C1&height=220&section=header&text=LUANA%20LIMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=18"/>
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F3C6D2&height=2&section=header&width=700"/>
 
 </div>
