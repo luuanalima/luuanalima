@@ -2,7 +2,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F3C6D2&height=2&section=header&width=700"/> </div>
+ </div>
 Sobre mim
 
 Sou estudante de Desenvolvimento de Sistemas no SENAI e aluna do SESI.
