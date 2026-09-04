@@ -1,52 +1,57 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E0,50:F3C6D2,100:FFB6C1&height=220&section=header&text=LUANA%20LIMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=18"/> <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=21&pause=1800&color=E89AAE&center=true&vCenter=true&width=650&height=50&lines=Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Programação;Banco+de+Dados;Sempre+aprendendo" alt="Typing SVG"/> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E0,50:F3C6D2,100:FFB6C1&height=200&section=header&text=LUANA%20LIMA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=18"/> </div>
 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas, atualmente estudando e praticando programação, desenvolvimento Web e Banco de Dados.
+Sou estudante de Desenvolvimento de Sistemas no SENAI e aluna do SESI.
 
-Este perfil reúne projetos, atividades e estudos desenvolvidos durante minha formação.
+Atualmente estou desenvolvendo meus conhecimentos em programação e tecnologia, buscando aprender na prática por meio de atividades, projetos e estudos.
+
+Tenho interesse em desenvolvimento de software, desenvolvimento Web e banco de dados e estou construindo minha base para evoluir cada vez mais na área de TI.
 
 Tecnologias
-<div align="center"> <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-F3C6D2?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Node.js-F3C6D2?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/> <br> <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS3-F3C6D2?style=for-the-badge&logo=css3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-F3C6D2?style=for-the-badge&logo=git&logoColor=FFFFFF"/> </div>
-Conhecimentos
-Programação
-Desenvolvimento Web
-Backend
-Banco de Dados
-SQL
-Modelagem de Dados
-Git e GitHub
-Repositórios
-1º Termo
+<div align="center"> <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-F3C6D2?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F3C6D2?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/> </div>
+Projetos e estudos
+1-Termo
 
-Atividades e exercícios desenvolvidos durante o primeiro termo.
+Repositório com conteúdos de aulas, atividades e materiais desenvolvidos durante o primeiro termo do curso de Desenvolvimento de Sistemas.
 
-Principal tecnologia: Python
+Tecnologia principal: Python
 
-<a href="https://github.com/luuanalima/1-Termo"> <img src="https://img.shields.io/badge/Ver%20repositório-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
-2º Termo
+Ver repositório
 
-Atividades e projetos envolvendo Backend, Desenvolvimento Web e Banco de Dados.
+2TERMO
 
-<a href="https://github.com/luuanalima/2TERMO"> <img src="https://img.shields.io/badge/Ver%20repositório-F3C6D2?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
-Meu Primeiro Commit
+Repositório com atividades e projetos desenvolvidos durante o segundo termo do curso.
 
-Um dos meus primeiros projetos utilizando Java e GitHub, desenvolvido para praticar programação e versionamento.
+Tecnologia: HTML
 
-<a href="https://github.com/luuanalima/meu-primeiro-commit"> <img src="https://img.shields.io/badge/Ver%20repositório-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
+Ver repositório
+
+meu-primeiro-commit
+
+Meu primeiro projeto utilizando Java e GitHub, desenvolvido durante os primeiros estudos de programação e versionamento de código.
+
+Tecnologia: Java
+
+Ver repositório
+
 Atualmente estudando
-Desenvolvimento Web  ████████████████░░░░
-JavaScript            ██████████████░░░░░░
-Banco de Dados        ██████████████░░░░░░
-Python                ████████████░░░░░░░░
-Java                  ██████████░░░░░░░░░░
+Desenvolvimento Web
+████████████████░░░░
+
+Programação
+██████████████░░░░░░
+
+Banco de Dados
+██████████████░░░░░░
+
+Java
+██████████░░░░░░░░░░
+
+Python
+████████████░░░░░░░░
 
 Objetivo
 
-Continuar desenvolvendo meus conhecimentos em programação, criar projetos e evoluir profissionalmente na área de tecnologia.
+Continuar desenvolvendo minhas habilidades em tecnologia, colocando em prática o que aprendo e construindo novos projetos ao longo da minha formação.
 
-GitHub
-<div align="center"> <a href="https://github.com/luuanalima"> <img src="https://img.shields.io/badge/GitHub-Luana%20Lima-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E0,50:F3C6D2,100:FFB6C1&height=100&section=footer"/> </div>
-<br>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F3C6D2&height=80&section=footer&text=Desenvolvido%20por%20Luana&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
-</div>
+<div align="center"> <a href="https://github.com/luuanalima"> <img src="https://img.shields.io/badge/GitHub-Luana%20Lima-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E0,50:F3C6D2,100:FFB6C1&height=100&section=footer"/> </div>
