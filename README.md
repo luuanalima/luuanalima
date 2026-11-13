@@ -1,159 +1,152 @@
+<!--
+✿ LUANA LIMA
+✿ GitHub Profile README
+✿ Theme: Pink / Rose
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E0,50:F3C6D2,100:FFB6C1&height=220&section=header&text=LUANA%20LIMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Luana%20Lima&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20constru%C3%A7%C3%A3o%20%7C%20Estudante%20de%20TI&descSize=15&descAlignY=55" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F3C6D2&height=2&section=header&width=700"/>
+✿ hello, world!
+
+Transformando curiosidade em conhecimento e ideias em código.
+
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## Sobre mim
+01. ♡ Sobre mim
+javascript
+const luana = {
+    nome: "Luana Lima",
+    profissão: "Estudante de Desenvolvimento de Sistemas",
+    instituição: ["SENAI", "SESI"],
+    localização: "Limeira - SP, Brasil",
+    
+    interesses: [
+        "Desenvolvimento Web",
+        "Backend",
+        "Banco de Dados",
+        "Programação"
+    ],
 
-Sou estudante de **Desenvolvimento de Sistemas**, atualmente desenvolvendo conhecimentos em programação, desenvolvimento Web e Banco de Dados.
+    objetivo: "Aprender, criar e evoluir todos os dias."
+};
 
-Este perfil reúne meus projetos, atividades e estudos realizados durante o curso.
 
----
+Sou estudante de Desenvolvimento de Sistemas e estou construindo minha jornada na tecnologia.
 
-## Conhecimentos
+Atualmente, desenvolvo conhecimentos em programação, desenvolvimento Web, Backend e Banco de Dados.
 
-**Programação**
+Este perfil é meu espaço para compartilhar projetos, atividades, aprendizados e minha evolução como desenvolvedora. ♡
 
-* Java
-* Python
-* JavaScript
-
-**Desenvolvimento Web**
-
-* HTML5
-* CSS3
-* Node.js
-
-**Banco de Dados**
-
-* SQL
-* MySQL
-* Modelagem de dados
-* Relacionamentos
-
----
-
-## Tecnologias
+02. ♡ Tecnologias & conhecimentos
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-F3C6D2?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+Linguagens de programação
 
-<br>
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=light" />
 
-<img src="https://img.shields.io/badge/Node.js-F3C6D2?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS3-F3C6D2?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+Desenvolvimento Web
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=light" />
 
-<img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Git-F3C6D2?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+Banco de Dados & ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" />
 
 </div>
 
----
+03. ♡ Meus projetos
 
-## Repositórios
+📁 1º TERMO
 
-<details>
-<summary><strong>1º TERMO</strong></summary>
+Repositório com atividades, exercícios e materiais desenvolvidos durante o primeiro termo do curso de ADS.
 
-<br>
+Python
+Lógica de programação
+Exercícios práticos
 
-Atividades e exercícios desenvolvidos durante o primeiro termo.
+📁 2º TERMO
 
-**Principal tecnologia:** Python
+Organização dos estudos e projetos desenvolvidos durante o segundo termo.
 
-<br>
+JavaScript e Node.js
+HTML e CSS
+Backend
+Banco de Dados
+Modelagem de dados
 
-<a href="https://github.com/luuanalima/1-Termo">
-<img src="https://img.shields.io/badge/Ver%20repositório-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+📁 MEU PRIMEIRO COMMIT
 
-</details>
+Um dos meus primeiros projetos utilizando Java e GitHub, colocando em prática os primeiros conceitos de programação e versionamento.
 
-<br>
+04. ♡ Atualmente estudando
+text
+╭──────────────────────────────────────╮
+│                                      │
+│  Desenvolvimento Web  ████████░░     │
+│  JavaScript           ███████░░░     │
+│  Banco de Dados       ███████░░░     │
+│  Java                 █████░░░░░     │
+│  Python               ██████░░░░     │
+│                                      │
+╰──────────────────────────────────────╯
 
-<details>
-<summary><strong>2º TERMO</strong></summary>
 
-<br>
+Meu foco é aprender na prática, desenvolver projetos e fortalecer minha base em programação.
 
-Atividades e projetos desenvolvidos durante o segundo termo.
+05. ♡ Meu método de evolução
+text
+     ✿ ESTUDAR
+        |
+        v
+     ✿ PRATICAR
+        |
+        v
+     ✿ DESENVOLVER
+        |
+        v
+     ✿ TESTAR
+        |
+        v
+     ✿ APRENDER COM OS ERROS
+        |
+        v
+     ✿ EVOLUIR
 
-**Conteúdos:** Backend, Desenvolvimento Web e Banco de Dados.
 
-<br>
+Acredito que cada linha de código é uma oportunidade de aprender algo novo.
 
-<a href="https://github.com/luuanalima/2TERMO">
-<img src="https://img.shields.io/badge/Ver%20repositório-F3C6D2?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>MEU PRIMEIRO COMMIT</strong></summary>
-
-<br>
-
-Um dos meus primeiros projetos utilizando Java e GitHub.
-
-Projeto desenvolvido para praticar programação e versionamento.
-
-<br>
-
-<a href="https://github.com/luuanalima/meu-primeiro-commit">
-<img src="https://img.shields.io/badge/Ver%20repositório-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</details>
-
----
-
-## Atualmente estudando
-
-```text
-Desenvolvimento Web    ████████████████░░░░
-JavaScript             ██████████████░░░░░░
-Banco de Dados         ██████████████░░░░░░
-Java                   ██████████░░░░░░░░░░
-Python                 ████████████░░░░░░░░
-```
-
----
-
-## Objetivo
-
-Continuar aprimorando meus conhecimentos em programação e desenvolvimento de sistemas através de estudos e projetos práticos.
-
----
-
-## GitHub
+06. ♡ GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/luuanalima">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luuanalima&show_icons=true&theme=omni&bg_color=FFF0F6&title_color=DB2777&icon_color=EC4899&text_color=9D174D&border_color=F9A8D4&hide_border=false&include_all_commits=true"/>
 
-<img src="https://img.shields.io/badge/Meu%20GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuanalima&layout=compact&theme=omni&bg_color=FFF0F6&title_color=DB2777&text_color=9D174D&border_color=F9A8D4"/>
 
-</a>
+<img src="https://streak-stats.demolab.com?user=luuanalima&theme=omni&background=FFF0F6&ring=EC4899&fire=DB2777&currStreakLabel=DB2777&sideLabels=9D174D&dates=9D174D&border=F9A8D4" width="70%"/>
 
 </div>
 
-<br>
+07. ♡ Próximos passos
+Começar minha jornada na programação.
+Aprender lógica de programação.
+Desenvolver projetos acadêmicos.
+Aprofundar conhecimentos em JavaScript.
+Desenvolver aplicações completas.
+Evoluir em Backend e Banco de Dados.
+Construir meu portfólio profissional.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F3C6D2&height=70&section=footer&text=Luana%20Lima&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
+♡ Obrigada por visitar meu perfil! ♡
+
+Em constante aprendizado, sempre buscando minha melhor versão.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=110&section=footer" width="100%"/>
 
 </div>
