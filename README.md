@@ -1,152 +1,106 @@
-<!--
-✿ LUANA LIMA
-✿ GitHub Profile README
-✿ Theme: Pink / Rose
--->
+> LUANA_
+
+[ SOBRE ]　[ TECH ]　[ PROJETOS ]　[ MÉTODO ]　[ CONTATO ]
+
+_{// QUEM SOU}
+
+SOBRE
+
+Olá, eu sou a Luana.
+
+Sou estudante de Desenvolvimento de Sistemas no SENAI e aluna do SESI. Estou construindo minha base em tecnologia por meio de estudos, projetos práticos e desafios de programação.
+
+Tenho interesse em desenvolvimento web, programação, back-end e bancos de dados. Gosto de aprender na prática, desenvolver soluções e transformar cada aprendizado em código.
+
+FOCO ATUAL	FORMAÇÃO	LOCALIZAÇÃO
+Desenvolvimento Web e programação	SENAI e SESI	Brasil
+
+_{// STACK DE ESTUDO}
+
+TECNOLOGIAS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Luana%20Lima&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20constru%C3%A7%C3%A3o%20%7C%20Estudante%20de%20TI&descSize=15&descAlignY=55" width="100%"/>
-
-✿ hello, world!
-
-Transformando curiosidade em conhecimento e ideias em código.
-
-![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+!Java !Python !JavaScript !HTML !CSS !Node.js !MySQL !Git !GitHub
 
 </div>
 
-01. ♡ Sobre mim
-javascript
-const luana = {
-    nome: "Luana Lima",
-    profissão: "Estudante de Desenvolvimento de Sistemas",
-    instituição: ["SENAI", "SESI"],
-    localização: "Limeira - SP, Brasil",
-    
-    interesses: [
-        "Desenvolvimento Web",
-        "Backend",
-        "Banco de Dados",
-        "Programação"
-    ],
+_{// O QUE JÁ CONSTRUÍ}
 
-    objetivo: "Aprender, criar e evoluir todos os dias."
-};
+PROJETOS
 
+_{[ 01 ]}
 
-Sou estudante de Desenvolvimento de Sistemas e estou construindo minha jornada na tecnologia.
+▶ 1º TERMO
 
-Atualmente, desenvolvo conhecimentos em programação, desenvolvimento Web, Backend e Banco de Dados.
+Atividades acadêmicas envolvendo lógica de programação e exercícios desenvolvidos durante o primeiro termo do curso.
 
-Este perfil é meu espaço para compartilhar projetos, atividades, aprendizados e minha evolução como desenvolvedora. ♡
+Stack: Python
 
-02. ♡ Tecnologias & conhecimentos
+_{[ 02 ]}
+
+▶ 2º TERMO
+
+Projetos e atividades desenvolvidos durante o segundo termo de Desenvolvimento de Sistemas.
+
+Conteúdos: HTML CSS Backend Banco de Dados
+
+_{[ 03 ]}
+
+▶ MEU PRIMEIRO COMMIT
+
+Projeto desenvolvido para praticar programação com Java e versionamento utilizando Git e GitHub.
+
+Stack: Java Git
+
+_{[ 04 ]}
+
+▶ SMARTCOFFEE
+
+Projeto acadêmico de desenvolvimento de uma cafeteria.
+
+_{// COMO EU APRENDO}
+
+MÉTODO
+ETAPA	PROCESSO
+01	ENTENDER — o problema
+02	DIVIDIR — a solução
+03	ESTUDAR — os conceitos
+04	TESTAR — o resultado
+05	MELHORAR — a próxima versão
+
+_{// TELEMETRIA}
+
+GITHUB EM NÚMEROS
 
 <div align="center">
 
-Linguagens de programação
+!GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=light" />
-
-Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=light" />
-
-Banco de Dados & ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" />
+!Top Languages
 
 </div>
 
-03. ♡ Meus projetos
+_{// CONTRIBUIÇÕES NO ÚLTIMO ANO}
 
-📁 1º TERMO
+_{// ROADMAP}
 
-Repositório com atividades, exercícios e materiais desenvolvidos durante o primeiro termo do curso de ADS.
-
-Python
-Lógica de programação
-Exercícios práticos
-
-📁 2º TERMO
-
-Organização dos estudos e projetos desenvolvidos durante o segundo termo.
-
-JavaScript e Node.js
-HTML e CSS
-Backend
-Banco de Dados
-Modelagem de dados
-
-📁 MEU PRIMEIRO COMMIT
-
-Um dos meus primeiros projetos utilizando Java e GitHub, colocando em prática os primeiros conceitos de programação e versionamento.
-
-04. ♡ Atualmente estudando
-text
-╭──────────────────────────────────────╮
-│                                      │
-│  Desenvolvimento Web  ████████░░     │
-│  JavaScript           ███████░░░     │
-│  Banco de Dados       ███████░░░     │
-│  Java                 █████░░░░░     │
-│  Python               ██████░░░░     │
-│                                      │
-╰──────────────────────────────────────╯
-
-
-Meu foco é aprender na prática, desenvolver projetos e fortalecer minha base em programação.
-
-05. ♡ Meu método de evolução
-text
-     ✿ ESTUDAR
-        |
-        v
-     ✿ PRATICAR
-        |
-        v
-     ✿ DESENVOLVER
-        |
-        v
-     ✿ TESTAR
-        |
-        v
-     ✿ APRENDER COM OS ERROS
-        |
-        v
-     ✿ EVOLUIR
-
-
-Acredito que cada linha de código é uma oportunidade de aprender algo novo.
-
-06. ♡ GitHub Statistics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luuanalima&show_icons=true&theme=omni&bg_color=FFF0F6&title_color=DB2777&icon_color=EC4899&text_color=9D174D&border_color=F9A8D4&hide_border=false&include_all_commits=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuanalima&layout=compact&theme=omni&bg_color=FFF0F6&title_color=DB2777&text_color=9D174D&border_color=F9A8D4"/>
-
-<img src="https://streak-stats.demolab.com?user=luuanalima&theme=omni&background=FFF0F6&ring=EC4899&fire=DB2777&currStreakLabel=DB2777&sideLabels=9D174D&dates=9D174D&border=F9A8D4" width="70%"/>
-
-</div>
-
-07. ♡ Próximos passos
-Começar minha jornada na programação.
-Aprender lógica de programação.
-Desenvolver projetos acadêmicos.
-Aprofundar conhecimentos em JavaScript.
+PRÓXIMOS PASSOS
+Evoluir em desenvolvimento web e back-end.
+Aprofundar conhecimentos em bancos de dados.
 Desenvolver aplicações completas.
-Evoluir em Backend e Banco de Dados.
-Construir meu portfólio profissional.
+Melhorar a qualidade, a organização e a documentação dos códigos.
+Construir soluções que demonstrem minha evolução técnica.
+
+_{// CANAL ABERTO}
+
+CONTATO
+Vamos conversar
+
+GitHub
 
 <div align="center">
 
-♡ Obrigada por visitar meu perfil! ♡
-
-Em constante aprendizado, sempre buscando minha melhor versão.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=110&section=footer" width="100%"/>
+© 2026 luuanalima — desenvolvido com código
 
 </div>
